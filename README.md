@@ -136,9 +136,3 @@ Durante el desarrollo de este proyecto aprendí a:
 - 💼 LinkedIn: https://www.linkedin.com/in/bryan-alexis-alarcon-palomino-158670369/
 - 📧 Email: alarconbrayan145@gmail.com
 
-
-# Mac
-.DS_Store
-
-# Logs
-*.log
