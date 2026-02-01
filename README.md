@@ -130,6 +130,7 @@ Durante el desarrollo de este proyecto aprendí a:
 
 ## 👨‍💻 Autor
 **Bryan Alexis Alarcon Palomino**
+**👉 [ACCEDER AL DASHBOARD INTERACTIVO](https://app.powerbi.com/groups/me/reports/267479b4-238b-41d1-8716-4fbd17ec370f/031d9e431b305430c004?experience=power-bi)**
 
 - 💼 LinkedIn: https://www.linkedin.com/in/bryan-alexis-alarcon-palomino-158670369/
 - 📧 Email: alarconbrayan145@gmail.com
