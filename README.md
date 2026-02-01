@@ -1,5 +1,3 @@
-# Dashboard de Ventas Superstore en Power BI
-Dashboard interactivo profesional desarrollado en Power BI aplicando modelado dimensional, DAX avanzado y  práctica de visualización de datos.
 
 # 📊 Dashboard de Ventas Superstore - Power BI
 
